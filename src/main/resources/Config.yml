@@ -1,0 +1,14 @@
+Modos:
+  ModeLimit: "3"
+Mensagens:
+  Prefix: "&b&lRStore-Modos&f&l>> &f"
+  ModeNotFound: "Este modo não esta listado na config."
+  WithoutMode: "Você não possui este modo."
+  ActiveMode: "Você ativou o modo &a{modo}&f."
+  ActivatedMode: "O modo &a{modo} &fainda está ativo."
+  DisabledMode: "O seu modo &a{modo} &ffoi desativado."
+  DelayedMode: "Você ainda não pode usar o modo &a{modo}&f."
+  FinishDelay: "Você já pode usar o seu modo &a{modo} &fnovamente."
+  MaxModes: "Você já atingiu o limite de modos ativos!"
+  DisableMode: "Você desativou o modo &a{modo}&f."
+  NoActiveModes: "Você não possui modos ativos."

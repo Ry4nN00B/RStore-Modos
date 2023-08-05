@@ -1,0 +1,16 @@
+Modos:
+  Template:
+    Name: "template"
+    Permission: "rstore.template"
+    Active_Time: 30
+    Delay_Time: 30
+    Stats:
+      STR: 10
+      DEX: 10
+      CON: 10
+      WIL: 10
+      SPI: 10
+    CommandsOn:
+      - "give {player} minecraft:diamond"
+    CommandsOff:
+      - "give {player} minecraft:bread"

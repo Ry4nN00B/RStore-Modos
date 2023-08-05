@@ -1,0 +1,16 @@
+name: RStore-Modos
+version: 1.1
+main: me.ry4nn00b.modes.Main
+authors: [ Ry4nN00B ]
+description: Plugin de modos desenvolvido para criar modos para os mods Naruto C e DragonBlock C 1.7.10.
+website: https://discord.gg/G4atpKWWNY
+softdepend:
+  - PowerNBT
+
+commands:
+  modo:
+    description: Usado para ativar os modos.
+  dmodo:
+    description: Usado para desativar os modos ativos.
+  mreload:
+    description: Usado para recarregar os arquivos do plugin.
